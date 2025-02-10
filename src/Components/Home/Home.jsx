@@ -26,12 +26,12 @@ function MainProfile() {
         // initial={{ rotate: 0 }}
         // animate={{ rotate: 360 }}
         
-         src={profile} alt="profile" width={250} height={250} className=" rounded-full " />
+         src={profile} alt="profile" width={250} height={250} className=" rounded-full cursor-none " />
       </div>
       <div className="right h-full content-center ">
         <h1 className=" text-4xl font-bold leading-8 ">Hello</h1>
         <h2 className=" mt-5 font-semibold text-[12px] " >A Bit About Me</h2>
-        <p className=" w-[200px] text-[8px]" >I&apos;m paragraph to click here add your own text and edit me, I&apos;m grete place for you to tell a story and let your user know a little more about you. </p>
+        <p className=" w-[250px] text-[10px]" >I&apos;m paragraph to click here add your own text and edit me, I&apos;m grete place for you to tell a story and let your user know a little more about you. </p>
         <div className="box flex w-full text-center justify-start mt-5 gap-4 text-gray-950 font-semibold ">
           <motion.div
           variants={container(0)}

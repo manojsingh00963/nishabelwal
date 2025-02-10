@@ -25,11 +25,11 @@ function Footer() {
         </div>
         <div className="tag text-[10px] font-bold ">
         Follow Me
-        <div className=" flex flex-row gap-2 "
+        <div className=" flex flex-row gap-3 "
         >
-        <span className="text-[10px]"><FaInstagram /></span>
-        <span className="text-[10px]"><FaLinkedinIn /></span>
-        <span className="text-[10px]"><FaTwitter /></span>
+        <span className=" cursor-pointer text-[14px]"><FaInstagram /></span>
+        <span className=" cursor-pointer text-[14px]"><FaLinkedinIn /></span>
+        <span className=" cursor-pointer text-[14px]"><FaTwitter /></span>
         </div>
         </div>
         <div className="text-[8px] leading-3 text-center" >
