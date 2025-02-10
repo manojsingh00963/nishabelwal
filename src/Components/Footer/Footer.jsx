@@ -35,7 +35,7 @@ function Footer() {
         <div className="text-[8px] leading-3 text-center" >
 
         <div className="tag">
-        &copy;2024 By Manoj-singh
+        &copy;2024 By Nisha-Belwal
         <p>Powered and secured by Coder.</p>
         </div>
         </div>

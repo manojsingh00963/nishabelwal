@@ -10,7 +10,7 @@ function Header() {
       <span className=" w-5 h-5 bg-[#EEA302] rounded-full " ></span>
         <h2 className=" cursor-not-allowed " >
         <NavLink to='/profile'>
-        Manoj RAwat
+        NiSha BelwaL
         </NavLink>
         </h2>
       <span className=" mt-1 text-[10px] text-slate-800 border border-t-0 border-r-0 border-l-0 border-b-slate-900 p-[2px] " >Web-Developer</span>

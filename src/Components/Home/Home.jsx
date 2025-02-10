@@ -1,4 +1,4 @@
-import profile from "./Profileimage.jpeg"
+import profile from "./programmer ❣️❣️.jpeg"
 import { NavLink } from "react-router-dom";
 import { easeInOut, motion } from "framer-motion";
 
